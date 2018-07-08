@@ -4,6 +4,5 @@ public class array {
 	
 	
 	
-	publi Object[] 
 
 }
